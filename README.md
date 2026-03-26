@@ -2,7 +2,7 @@
 Full-Stack Developer Since 2018
 
 
-# Dxles 🇹🇷
+# Dxles
 
 ## code // security // chaos
 
