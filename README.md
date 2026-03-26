@@ -25,7 +25,7 @@ Genellikle kapalı devre takılırım, projelerim de buna göredir.
 
 ### // connect = [
 
-    "base_camp": "[dxles.eu](http://dxles.eu)",
+    "base_camp": "[dxles.eu](https://dxles.eu)",
     "instant_msg": "[Telegram](https://t.me/v99ls)",
     "visual_shit": "[Instagram (illahiyet)](https://www.instagram.com/illahiyet/)",
     "no_linkedin":
