@@ -27,7 +27,7 @@ Genellikle kapalı devre takılırım, projelerim de buna göredir.
 
     "base_camp": "[dxles.eu](https://dxles.eu)",
     "instant_msg": "[Telegram](https://t.me/v99ls)",
-    "visual_shit": "[Instagram (illahiyet)](https://www.instagram.com/illahiyet/)",
+    "visual_shit": "[Instagram (illahiyet)](https://www.instagram.com/dxl3s/)",
     "no_linkedin":
 
 ### ]
