@@ -1,25 +1,47 @@
 # Dxles | Full-Stack Developer & Security Researcher
 
-2018 yılından beri backend geliştirme, otomasyon sistemleri ve siber güvenlik alanlarıyla ilgileniyorum. Şu an Almanya'da yaşıyorum. Geliştirdiğim projelerin büyük bir kısmı altyapı, özel otomasyonlar ve kapalı devre sistemlerden oluştuğu için çalışmalarımı genellikle private repolarda sürdürüyorum.
+> 2008 doğumluyum. Çanakkale Gelibolu'da doğdum, şu an Almanya bavyera bölgesinde
+> Yaşıyorum. 2018'den beri — 10 yaşından itibaren — yazılımla 
+> ilgileniyorum. Kod benim için bir hobi değil; sistemleri anlamanın 
+> ve sorgulamanın bir yolu.
+
+Projelerimin büyük çoğunluğu altyapı, özel otomasyon ve kapalı devre
+sistemlerden oluştuğu için çalışmalarımı genellikle private repolarda
+veya [dxles.eu](https://dxles.eu) altında sürdürüyorum.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler
 
-* **Backend & Sistem:** Node.js, Python ve Go ile mikroservis mimarileri ve performans odaklı backend sistemleri.
-* **Otomasyon:** Telegram ve Discord API'leri üzerinde yüksek performanslı, karmaşık bot mimarileri ve otomasyon süreçleri.
-* **Siber Güvenlik:** RAT teknolojileri, C2 sunucu yapıları, tersine mühendislik (Reverse Engineering) ve güvenlik izleme sistemleri analizi.
+- **Backend & Sistem:** Node.js, Python, Go ile mikroservis 
+  mimarileri ve performans odaklı backend sistemleri.
+- **Otomasyon & Botlar:** Telegram ve Discord API'leri üzerinde 
+  yüksek performanslı, karmaşık bot mimarileri ve otomasyon süreçleri.
+- **Uygulama Güvenliği:** Güvenlik açığı analizi, tersine mühendislik,
+  abuse tespiti ve sistem davranış testi.
+- **Reverse Engineering:** Mevcut sistemleri parçalarına ayırıp 
+  analiz etmek — kendi kodumu yazmak kadar ilgi çekici bulduğum alan.
 
 ---
 
 ### 👁️‍🗨️ Deneyim
 
-* **Meta (Dış Destek) | 2023 - 2025**
-  Instagram'ın ban ve abuse (kötüye kullanım) algoritmaları ile yazılım güvenliği süreçlerinde harici olarak teknik destek sağladım. Sistem analizleri ve süreç optimizasyonları üzerine çalıştıktan sonra ekipten ayrıldım.
+**Meta / Instagram (Harici Teknik Destek) | 2023 – 2025**
+Instagram'ın ban ve abuse (kötüye kullanım) algoritmalarıyla platform
+güvenlik süreçlerinde harici teknik destek sağladım. Sistem analizi,
+abuse tespiti ve süreç optimizasyonu üzerine çalıştım.
 
 ---
 
-### 🔗 İletişim & Bağlantılar
+### 📌 Hakkımda
+
+- 🎂 26 Mayıs 2008 — Çanakkale, Gelibolu
+- 📍 Almanya
+- 🌐 Site: [dxles.eu](https://dxles.eu)
+
+---
+
+### 🔗 Bağlantılar
 
 <p align="left">
   <a href="https://dxles.eu" target="_blank">
@@ -38,4 +60,4 @@
 
 ---
 
-> "Code is cheap. Show me the exploit."
+> *"Sistemi anlamak, sistemi yenmekten daha değerlidir."*
