@@ -60,4 +60,5 @@ abuse tespiti ve süreç optimizasyonu üzerine çalıştım.
 
 ---
 
-> *"Sistemi anlamak, sistemi yenmekten daha değerlidir."*
+> *"A good programmer is someone who always looks both ways before crossing a one-way street."
+> — Doug Linder*
