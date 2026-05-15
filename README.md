@@ -56,6 +56,8 @@ abuse tespiti ve süreç optimizasyonu üzerine çalıştım.
   <a href="https://www.tiktok.com/@dxlesofficial" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@dxlesofficial-000000?style=flat-square" alt="TikTok">
   </a>
+  <a href="[https://www.linkedin.com/in/dxles-asik-754205384/]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dxles-asik-754205384-000000?style=flat-square" alt="LinkedIn">
 </p>
 
 ---
