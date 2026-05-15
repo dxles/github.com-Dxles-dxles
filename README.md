@@ -1,41 +1,41 @@
-# github.com-Dxles-dxles
-Full-Stack Developer Since 2018
+# Dxles | Full-Stack Developer & Security Researcher
 
-
-# Dxles
-
-## code // security // chaos
-
-2018'den beri sanal dünyanın arka sokaklarındayım. Yazılımı bir hobi olarak değil, sistemlerin nasıl çalıştığını (veya nasıl çalışmadığını) anlamak için bir araç olarak görüyorum. "Sıradan" bir geliştirici değilim; işin güvenlik ve otomasyon kısmıyla, yani biraz daha "karanlık" taraflarıyla ilgileniyorum.
-
-Genellikle kapalı devre takılırım, projelerim de buna göredir.
+2018 yılından beri backend geliştirme, otomasyon sistemleri ve siber güvenlik alanlarıyla ilgileniyorum. Şu an Almanya'da yaşıyorum. Geliştirdiğim projelerin büyük bir kısmı altyapı, özel otomasyonlar ve kapalı devre sistemlerden oluştuğu için çalışmalarımı genellikle private repolarda sürdürüyorum.
 
 ---
 
-### // focus_areas = {
+### 🛠️ Teknik Yetkinlikler
 
-    * **Full-Stack:** Frontend'de takılmayı sevmem ama backend tarafında Node.js, Python ve Go ile sistem mimarileri kuruyorum.
-    * **Automation & Bots:** Telegram ve Discord API'lerini sömürürüm. İşlevsel, karmaşık ve hızlı botlar yazarım.
-    * **Security & RAT:** RAT teknolojileri, C2 sunucuları ve test amaçlı izleme sistemleri üzerine derinlemesine çalışıyorum. Sistemlerin açıklarını bulmak ve analiz etmek benim için bir oyun gibi.
-    * **Reverse Engineering:** Başkasının kodunu parçalarına ayırıp ne yaptığını görmek, kendi kodumu yazmaktan bazen daha zevkli.
-
-### }
+* **Backend & Sistem:** Node.js, Python ve Go ile mikroservis mimarileri ve performans odaklı backend sistemleri.
+* **Otomasyon:** Telegram ve Discord API'leri üzerinde yüksek performanslı, karmaşık bot mimarileri ve otomasyon süreçleri.
+* **Siber Güvenlik:** RAT teknolojileri, C2 sunucu yapıları, tersine mühendislik (Reverse Engineering) ve güvenlik izleme sistemleri analizi.
 
 ---
 
-### // connect = [
+### 👁️‍🗨️ Deneyim
 
-    "base_camp": "[dxles.eu](https://dxles.eu)",
-    "instant_msg": "[Telegram](https://t.me/v99ls)",
-    "visual_shit": "[Instagram (illahiyet)](https://www.instagram.com/dxl3s/)",
-    "no_linkedin":
-
-### ]
+* **Meta (Dış Destek) | 2023 - 2025**
+  Instagram'ın ban ve abuse (kötüye kullanım) algoritmaları ile yazılım güvenliği süreçlerinde harici olarak teknik destek sağladım. Sistem analizleri ve süreç optimizasyonları üzerine çalıştıktan sonra ekipten ayrıldım.
 
 ---
 
-### // latest_activity:
+### 🔗 İletişim & Bağlantılar
 
-Burada paylaştığım projeler buzdağının sadece görünen kısmı. Gerçekten ilgi çekici olanlar genellikle private repolarda veya `dxles.eu` altında barınıyor. Eğer gerçekten yetenekli bir "yazılımcı" veya "güvenlik meraklısı" arıyorsan, Telegram'dan ulaş. 
+<p align="left">
+  <a href="https://dxles.eu" target="_blank">
+    <img src="https://img.shields.io/badge/Website-dxles.eu-blueviolet?style=flat-square" alt="Website">
+  </a>
+  <a href="https://t.me/ankaraliyim" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@ankaraliyim-26A5E4?style=flat-square" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/dxl3s/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@dxl3s-E4405F?style=flat-square" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@dxlesofficial" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@dxlesofficial-000000?style=flat-square" alt="TikTok">
+  </a>
+</p>
 
-> "Code is cheap. Show me the exploit." - (Bunu bir yerde okumuştum, hoşuma gitti.)
+---
+
+> "Code is cheap. Show me the exploit."
